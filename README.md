@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**vincenzodirosaj/vincenzodirosaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hey there! 👋
+## Hey there! 👋
 
 I'm **Vincenzo**, an Aerospace Engineer from Naples, Italy, passionate about **Defence, UAVs, and Autonomous Systems**.
 
