@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Vincenzo**, an Aerospace Engineer from Naples, Italy, passionate about **Defence, UAVs, and Autonomous Systems**.
+I'm **Vincenzo**, an Aerospace Engineer, passionate about **Defence, UAVs, and Autonomous Systems**.
 
 I studied Aerospace Engineering at the **University of Naples Federico II**, with international academic experiences at **TU Berlin** and **Sorbonne Université**.
 
