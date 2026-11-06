@@ -6,7 +6,7 @@ I studied Aerospace Engineering at the **University of Naples Federico II**, wit
 
 I enjoy designing, simulating, coding, and turning ideas into real engineering solutions.
 
-My favorite tools are **MATLAB and Simulink** for simulation and control. I'm also experienced in **3D printing** exploring **ArduPilot, FPV drones**, with the future goal of building a VTOL aircraft.
+My favorite tools are **MATLAB and Simulink** for simulation and control. I'm also experienced in **3D printing** and currently exploring **ArduPilot, FPV drones**, with the future goal of building a VTOL aircraft.
 
 **Check out my pinned projects below!** 🚀
 -->
